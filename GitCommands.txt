@@ -1,0 +1,13 @@
+To clone a repository from GitHub to the system:
+	git clone <repository link>
+
+To commit changes from the system to GitHub
+	git add <filename>
+	git commit (ENTER in the nano file editor to exit after commenting)		#commits in my repository
+	git push origin master	#pushes the updated files in my folder online
+
+To sync my repository with the origin/any other repository
+	git remote add upstream <origin repository link>
+	git fetch upstream
+	git checkout master
+
