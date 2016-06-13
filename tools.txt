@@ -1,0 +1,11 @@
+Downloaded:
+
+PyDictionary
+nltk
+numpy
+
+---------------------------------------------------------
+
+to download:
+
+sklearn
