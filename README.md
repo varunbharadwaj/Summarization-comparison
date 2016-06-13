@@ -13,4 +13,7 @@ Steps:
 
 Tools:
 1)Microsoft Cognitive Services(MCS)
-2)Python;scikit-learn library
+2)Python:
+      i)scikit-learn library;
+      ii)nltk
+      iii)numPy
