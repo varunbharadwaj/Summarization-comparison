@@ -18,4 +18,3 @@ Tools:
       i)scikit-learn library;
       ii)nltk
       iii)numPy
-3)
